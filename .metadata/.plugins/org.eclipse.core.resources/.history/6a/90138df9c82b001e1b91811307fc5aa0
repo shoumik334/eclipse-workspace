@@ -1,0 +1,13 @@
+package basicjava;
+
+public class BioData {
+	public static void main(String[] args)
+	{
+		System.out.println("Shoumik \n Ahmed \n Bse in cse");
+		System.out.println("Age 21 ");
+		System.out.println("BSc in Cse");
+		
+	}
+	
+
+}
