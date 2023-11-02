@@ -57,7 +57,7 @@ public class Game {
 				break;
 				
 			}
-		}
+		} 
 	}
 	public static void main(String[] args) {
 		Game game=new Game(1,100);
