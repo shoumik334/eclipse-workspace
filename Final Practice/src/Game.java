@@ -56,8 +56,8 @@ public class Game {
 				System.out.println("You need total "+noOfguess+" Guess ");
 				break;
 				
-			}
-		} 
+			} 
+		}
 	}
 	public static void main(String[] args) {
 		Game game=new Game(1,100);

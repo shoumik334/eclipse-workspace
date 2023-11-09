@@ -1,0 +1,47 @@
+Bus name: Shymoli
+Start From: Dhaka
+End to: Syleht
+Journey date: 31-10-2023
+
+Bus name: Tisha
+Start From: Khulna
+End to: Rajshahi
+Journey date: 29-10-2023
+
+Bus name: Tisha
+Start From: Khulna
+End to: Rajshahi
+Journey date: 29-10-2023
+
+Bus name: Shymoli
+Start From: Dhaka
+End to: Syleht
+Journey date: 31-10-2023
+
+Bus name: Hanif
+Start From: Dhaka
+End to: Rajshahi
+Journey date: 29-10-2023
+
+Bus name: Shymoli
+Start From: Dhaka
+End to: Syleht
+Journey date: 31-10-2023
+
+Bus name: Hanif
+Start From: Dhaka
+End to: Chittagong
+Journey date: 29-10-2023
+
+Bus name: Hanif
+Start From: Dhaka
+End to: Chittagong
+Journey date: 29-10-2023
+Departure Time: 11.10 AM
+Arrival Time: 6.30 PM
+
+Bus name: Hanif
+Start From: Dhaka
+End to: Chittagong
+Journey date: 29-10-2023
+

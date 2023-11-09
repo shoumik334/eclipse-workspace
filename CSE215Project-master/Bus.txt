@@ -1,0 +1,27 @@
+Hanif
+Ac
+Dhaka
+Rajshahi
+19-08-2015
+600
+11.10 AM
+6.30 PM
+20
+Tisha
+Non_Ac
+Khulna
+Rajshahi
+19-08-2015
+550
+09.10 AM
+03.30 PM
+20
+Shymoli
+Ac
+Dhaka
+Syleht
+19-08-2015
+1000
+3.30 PM
+9.50 PM
+20
