@@ -10,6 +10,6 @@ public abstract class Polygon {
 		 this.perimeter=perimeter;
 	}
 	public double getPerimeter(){
-			return perimeter;
+		return this.perimeter;
 	}
 }

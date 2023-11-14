@@ -6,7 +6,7 @@ public class Driver {
 		Traiangle traingle = new Traiangle(4,5,3);
 		
 		System.out.println("Area of Triangle is : "+traingle.area());
-		System.out.println("Perimeter of Triangle is : "+traingle.perimeter());
+		System.out.println("Perimeter of Triangle is : "+traingle.getPerimeter());
 
 	}
 
