@@ -1,5 +1,6 @@
-Paragraphs are the building blocks of papers.
- Many students define paragraphs in terms of length: a paragraph is a 
-group of at least five sentences, a paragraph is
- half a page long, etc. In reality, though, the unity 
-and coherence of ideas among sentences is what constitutes a paragraph.
+When to start a new paragraph:
+
+Start new main points or new ideas in a new paragraph. If you have an extended idea across multiple paragraphs, each new point within that idea should have its own paragraph.
+Use a new paragraph to introduce a contrasting or different position. Use a clear topic sentence to identify the main idea.
+If the paragraph becomes too long or the material is overly complex, you will need to create a break to make your writing more readable. Try splitting long paragraphs into two shorter paragraphs. This means you will need to write a new topic sentence at the start of the new paragraph.
+Introductions and conclusions are usually written as separate paragraphs.

@@ -1,0 +1,7 @@
+Temperaature: 25 Celcius
+Below Freezing:false
+Swimming Weather:true
+
+Temperaature: 45 Fahrenheit
+Below Freezing:true
+Swimming Weather:false

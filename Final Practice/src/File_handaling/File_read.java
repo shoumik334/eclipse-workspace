@@ -9,13 +9,14 @@ import java.util.Scanner;
 		File myFile=new File("readFile.txt");
 		try {
 			Scanner sc=new Scanner(myFile);
+			
 			while(sc.hasNextLine()) {
 				String Text=sc.nextLine();
 				System.out.println(Text);
+				
 			}
 			sc.close();
 		}
-		
 		catch(Exception e) {
 			e.printStackTrace();
 		}
