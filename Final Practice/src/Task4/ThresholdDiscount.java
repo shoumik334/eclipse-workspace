@@ -9,10 +9,10 @@ public class ThresholdDiscount implements Discountable{
 		this.discount=discount;
 		this.threshold=threshold;
 	}
+		
 	
 	public void setThreshold(double threshold) {
-		this.threshold=threshold;
-	}
+		this.threshold=threshold;	}
 	public double getThreshold() {
 		return threshold;
 	}
